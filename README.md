@@ -1,5 +1,1 @@
-# Webpack configurado
-
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
+Aplicacion de lista de tareas, para inciar solo necesita usar el comando npm install
